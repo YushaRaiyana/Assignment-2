@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: rgb(26, 26, 26);
+}
+
+.Brand-name{
+    font-size: 36px;
+    font-weight: 900;
+    color: #E6533C;
+
+}
+
+/* SHARED STYYYYLES */
+.display-flex{
+    display: flex;
+}
+
+/* NOT SO HEADER STYLES */
+
+
+/* NOT SO NAVBAR STYLES */
+.Navbar{
+    display: flex;
+}
+
+.NAV-buttons{
+    display: flex;
+}
+
+.nav-item{
+    list-style: none;
+    margin-right: 38px;
+}
+
+
+.nav-button{
+    font-weight: 500;
+    color: white;
+    background-color: rgb(28, 28, 28);
+    border: 1px solid rgb(43, 43, 43);
+    border-radius: 46px;
+    padding: 5px 13px;
+    
+}
+
+.Home{
+    background-color: #E6533C;
+}
+.Navbar{
+    justify-content: space-between;
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-top: 60px;
+}
+
+
+.Title{
+    color: white;
+    font-size: 72px;
+}
+.Shape{
+    color: rgb(218, 222, 234);
+}
+
+.description{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 50%;
+    margin-top: 30px;
+
+}
+.Title-section{
+    margin-left: 190px;
+   
+}
+.Btn-1{
+    background-color: #E6533C;
+    color: white;
+    border-radius: 46px;
+    padding: 16px 45px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.Btn-2{
+    color: white;
+    border-radius: 46px;
+    padding: 16px 45px;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: rgb(26, 26, 26);
+    border: white 1.7px solid;
+}
+
+.Biggest-dad{
+    display: flex;
+}
+
+.Image-bhai{
+    margin-left: 90px;
+    margin-right: 214px;
+}
+.Image-111{
+    width: 100%;
+    width: 350px;
+    height: 580px;
+}
+
+#Badge{
+    padding: 20px 38px;
+    border-radius: 12px;
+    background-color: #5b5b5f;
+    color: white;
+   transform: translateY(-370px) translateX(-110px) ;
+    
+}
+
+#BADGE{
+    padding: 20px 38px;
+    border-radius: 12px;
+    background-color: #84848b;
+    color: white; 
+    transform: translateY(-84px) translateX(-60px);
+
+}
+#Badge-1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bug{
+    border-top: 200px;
+}
+
+
+
+                          /* OTHER PART OF OUR COUNTRY */
+
+.Title-sup{
+    margin-left: 560px;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-weight: 900;
+}
+.para{
+    margin-left: 450px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+.HR{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    opacity: 50%;
+}
+
+
+.IMGG{
+    border-radius: 50%;
+    margin-right: 130px;
+    width: 80%;
+    height: 70%;
+    margin-left: 32px;
+    
+}
+
+.THE-UL{
+    display: flex;
+    
+}
+
+/* .MME{
+    margin-left: 190px
+} */
+
+
+
+.THE-UL h3{
+    color: white;
+    text-align: center;
+}
+
+
+
+/* ANOTHER ONE GUYS */
+
+
+/* .ANOTHER-ONE{
+    border: 0.001px solid rgb(154, 64, 64); */
+    /* background-color: #2c2c2c; */
+    /* padding: 12px;
+    display: flex;
+} */
+ .ANOTHER-ONE{
+    margin: 40px 340px 40px 250px;
+ }
+.another-two{
+    border: 0.001px solid;
+    background-color: #2c2c2c;
+    padding: 12px;
+    display: flex;
+    border-radius: 18px;
+}
+
+.run{
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+    margin-left: 75px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  
+}
+
+.YOU-nice{
+    color: white;
+    padding-left: 75px;
+    opacity: 50%;
+    font-size: 14px;
+}
+.Join{
+    border-radius: 42px;
+    background-color: #E6533C;
+    padding: 16px 40px;
+    margin-left: 75px;
+    margin-top: 12px;
+}
+
+#RUN{
+    width: 375px;
+    height: 300px;
+    border-radius: 18px;
+    margin-top: 20px;
+    margin-left: 165px;
+}
+
+
+
+
+
+
+
+
+
+/* MY SECTION */
+
+.H2O{
+    padding-left: 740px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
