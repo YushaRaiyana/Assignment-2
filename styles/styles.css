@@ -563,8 +563,20 @@ footer ul li{
         margin-left: 10px;
         padding-left: 10px;
     }
+    body{
+        background-color: green;
+    }
     
-    
+    .THE-UL{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .para{
+        margin-left: 20px;
+    }
+    header{
+        width: 100%;
+    }
     
 }
 
