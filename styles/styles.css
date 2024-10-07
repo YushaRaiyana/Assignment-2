@@ -257,57 +257,273 @@ body{
 
 
 
+/* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh */
 
 
+.Cont-us{
+    border: #3d3d3d solid 4px;
+    width: 400px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-bottom: 20px;
+    margin-right: 8px;
+    color: aliceblue;
+    padding-left: 12%;
+    background-color: rgb(50, 50, 50);
+    
+
+}
+
+.ULA li{
+    color: rgb(255, 255, 255);
+    opacity: 50%;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 10px;
+    list-style: none;
+    padding-right: 18px;
+   
+   
+}
+.ULA{
+    padding-top: 32px;
+    padding-right: 15px;
+    border: #3d3d3d 4px solid;
+    width: 200px;
+    background-color: rgb(50, 50, 50);
+    transform: translateX(-420px) translateY(5px);
+}
+
+.dimdim{
+    display: flex;
+}
+
+#CONNN{
+    width: 95%;
+    transform: translateX(-440px) translateY(150px);
+}
 
 
+/* hhhhhHHHHHHHHHHHHHHHHHHHHHHHHhhhhhh */
 
-/* MY SECTION */
+.THTH{
+    margin-left: 385px;
+    color: white;
+    font-weight: 800;
+    font-size: 48px;
+}
 
-.H2O{
-    padding-left: 740px;
+.thth{
+    margin-left: 385px;
+    color: white;
+    font-size: 14px;
+    opacity: 50%;
+  
+}
+
+.ThTh{
+    margin-top: 90px;
+    margin-right: 385px;
+}
+
+.ROMBUS{
+    background-color: #222222;
+    display: flex;
+}
+
+.bmi-div{
+    width: 300px;
+    height: 498px;
+}
+.BMI-THING{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+
+
+.CALCULATE{
+    margin-left: 500px;
+    color: white;
+    margin-top: 30px;
+}
+
+td, th{
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    opacity: 50%;
+    
+}
+.oio {
+    padding: 15px 111px 15px 18px;
+}
+
+.iii{
+    padding: 15px 22px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 190px;
+}
+td{
+    color: white ;
+    opacity: 50%;
+    font-size: 14px;
+    padding: 13px 20px 13px 20px;
+}
+
+.BMI-THING{
+    margin-left: 157px;
+    width: 100%;
+    margin-bottom: 52px;
 }
 
 
 
+.comp{
+    color: white;
+    opacity: 50%;
+    font-size: 14px;
+}
+
+.GRID-ME{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 35px;
+    
+   
+}
+
+.MAMMAM{
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    padding: 13px 120px 13px 20px;
+    margin: 12px 12px;
+    color: white;
+    opacity: 60%;
+   
+} 
+
+.TLTL{
+    width: 193%;
+
+}
+.clac{
+    border-radius: 42px;
+    background-color: #E6533C;
+    padding: 16px 70px;
+    color: white;
+    transform: translateX(-320px) translateY(90px);
+}
+
+/* pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp */
 
 
+.THE-TITLEEE{
+    margin-left: 540px;
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    margin-top: 90px;
+}
 
 
+.pumpum{
+    margin-left: 385px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.ACCESS{
+    margin-left: 280px;
+}
+.NUH-UH img{
+    border-radius: 18px;
+    width: 70%;
+    /* margin: 58px 90px 88px 90px; */
+    
+}
+
+.NUH-UH{
+    border-radius: 18px;
+    /* display: flex; */
+    margin: 58px 90px 88px 90px;
+   
+}
+.POCHA, .DUSHTU{
+    width: 100%;
+    height: 100%;
+}
+.PAJI{
+    width: 100%;
+    height: 85%;
+}
+.UNBHALO{
+    width: 100%;
+    height: 90%;
+}
 
 
+.GUMMYBEAR{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
 
 
+.ggss{
+    color: white;
+    transform: translateY(-430px) translateX(10px);
+}
+.ssgg{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+}
+.ggssq{              
+    color: white;
+    transform: translateY(-430px) translateX(22px);
+}
+
+.ggssw{
+    color: white;
+    transform: translateY(-430px) translateX(34px);
+}
+
+.ggsse{
+    color: white;
+    transform: translateY(-160px) translateX(10px);
+}
+
+.ggssr{
+    color: white;
+    transform: translateY(-160px) translateX(22px);
+}
+.ggsst{
+    color: white;
+    transform: translateY(-160px) translateX(34px);
+}
 
 
+/* FOOTER!!!!!!! */
 
+.FOOTERRR{
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    display: flex;
+}
 
+.LAST-THINGS{
+    margin: 66px 102px 73px 190px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.descriptyy{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+}
+.FITNESS-BROTHAA{
+    padding-top: 50px;
+}
 
 
 
