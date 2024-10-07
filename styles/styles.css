@@ -508,7 +508,7 @@ td{
 /* FOOTER!!!!!!! */
 
 .FOOTERRR{
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(45, 45, 46, 0.1);
     color: white;
     display: flex;
 }
@@ -520,10 +520,101 @@ td{
 .descriptyy{
     color: rgba(255, 255, 255, 0.5);
     font-size: 14px;
+    transform: translateY(-40px);
 }
 .FITNESS-BROTHAA{
     padding-top: 50px;
+    transform: translateY(-40px);
 }
+
+.THIS-IS-THE-WAY{
+    display: flex;
+}
+
+
+.info{
+    margin-top: 66px;
+    margin-left: 102px;
+}
+
+.INFOO{
+    margin-top: 66px;
+    margin-left: 132px; 
+}
+
+
+footer ul li{
+    list-style: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 23px;
+    transform: translateX(-37px);
+    font-weight: 400;
+}
+
+.GGH, .GGJ{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+
+
+@media screen and (max-width=576px) {
+    header{
+        margin-left: 10px;
+        padding-left: 10px;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
